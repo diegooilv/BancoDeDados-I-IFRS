@@ -25,3 +25,6 @@ Beecrowd é uma plataforma de desafios de programação que ajuda a aprimorar a 
 #### Notas de Plágio
 
 Este repositório é para uso educacional e de desenvolvimento pessoal. Por favor, evite qualquer forma de plágio e use os materiais como referência para seus estudos e exercícios!
+
+---
+Repositório concluído em: 13/12/2024.
